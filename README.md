@@ -1,5 +1,3 @@
-"# responsive-portfolio-website" 
-
 This project is one of the works I created while improving my software development skills.  
 Please keep in mind that it was built by a student who is actively learning and growing in the field.
 
